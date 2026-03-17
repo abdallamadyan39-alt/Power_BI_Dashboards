@@ -8,7 +8,7 @@ Explore the dashboards below. Eash has its own dedicated README with more detail
 
 ## 📈 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](/Images/Capture.PNG)
+![Data Jobs DB GIF](/images/Project1_Dashboard_Overview.gif)
 
 [🌐 **View Interactive Dashboard**](/Data_Jobs_v1/Data_Jobs_Dashboard.pbix)
 
@@ -25,3 +25,29 @@ Explore the dashboards below. Eash has its own dedicated README with more detail
 * ➡️ Drill-Through Functionality 
 
 [➡️ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
+
+## 📊 Data Jobs Dashboard 2.0 (V2 - Single-page Focus)
+
+![Data jobs Dashboard 2.0](/images/Project2_Dashboard_Overview.gif)
+
+[🌐 **View Interactive Dashboard**](/Data_jobs_v2/Datab%20Job%20Dashboard%202.0.pbix)
+
+**Key Power BI Skills Utilized (demonstrating progression):**
+* 🎨 Advanced Dashboard Design (Single-page UX & Optimization)
+* ⚙️ Complex Power Query Transformations
+* 🔗 Star Schema Data Modeling Principles
+* 🧮 Explicit DAX Measures (e.g., `CALCULATE`, context modifiers) 
+* 📊 Dynamic Visualizations (driven by parameters/Slicers)
+* ⚙️ Field & Numeric Parameter Implementation for "What-If" Analysis
+* 🗺️ Enhanced Geospatial Insights
+* 🔢 Advanced Card Visualizations
+* 🎚️ Optimized Slicers & Advanced Cross-Filering Techniques
+* ✨ Report performance Considerations
+
+[➡️ **View Full Project 2 Details (README)**](/Data_jobs_v2/README.md)
+
+---
+
+## About This Portfolio
+
+Each dashboard linked above has its own detailed `README.md` file within its respactive project folder. these offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
