@@ -10,6 +10,8 @@ Explore the dashboards below. Eash has its own dedicated README with more detail
 
 ![Data Jobs DB GIF](/Images/Capture.PNG)
 
+[🌐 **View Interactive Dashboard**](/Data_Jobs_v1/Data_Jobs_Dashboard.pbix)
+
 **Key Power BI Skills Utilized:**
 * 🎨 Dashboard Layout & Design
 * ⚙️ Power Query (ETL & Data Shaping)
